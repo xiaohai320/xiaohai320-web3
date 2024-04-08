@@ -1,0 +1,26 @@
+{
+  "name": "xiaohai320-web3",
+  "version": "0.0.3",
+  "private": false,
+  "description": " for xhvalidate plugin",
+  "author": "zhangwei320",
+  "main": "module.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaohai320/xiaohai320-web3.git"
+  },
+  "keywords": [
+    "nuxtjs",
+    "vuejs",
+    "nuxt",
+    "vue",
+    "web3",
+    "web3.js",
+    "ethereum"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/xiaohai320/xiaohai320-web3.git",
+  "dependencies": {
+    "xhvalidate": "0.1.6"
+  }
+}
